@@ -1,0 +1,26 @@
+head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    background: linear-gradient(150deg, #23fbff, #000000 );
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 18px;
+    padding: 0;
+    min-height: 100vh;
+    background: linear-gradient(150deg,#0f024f, #8c068c );
+}
+H1{
+    color: #ffff;
+}
+h2{
+    text-align: center;
+}
+p{
+    color: #000000;
+}
+p .leo{
+    color: #ffff;
+}
