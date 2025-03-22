@@ -1,0 +1,15 @@
+.titulo{
+    font-size: 50px;
+    font-family: verdana;
+}
+
+button{
+    margin-top: 80px;
+    font-family: Algerian;
+    font-size: 800px;
+    width: 200px;
+    height: 100px;
+    background: linear-gradient(to left top, #c32c71 50%, #b33771);
+    border-radius: 100%;
+    font-size: 20px;
+}
