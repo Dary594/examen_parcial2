@@ -1,0 +1,412 @@
+/*copilot*/
+.m {
+    display: flex;
+    align-items: center;
+}
+
+.m img{
+    width: 960px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */       
+}
+
+.titulo{
+    text-align: center;
+    font-size: 12px; 
+    color: #333; 
+}
+.m button {
+    background-color: orange; /* Color de fondo (verde) */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 50px 50px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Para mantener el botón en línea */
+    font-size: 40px; /* Tamaño de fuente */
+    border-radius: 15px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    transition: background-color 0.3s; /* Animación para cambio de color */
+  }
+
+/*imagenes de copilot*/
+.conjunto {
+    display: flex;
+    align-items: center;
+}
+.conjunto img {
+     
+    width: 268px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+
+}
+
+/*copilot2*/  
+.contenedor {
+    position: relative;
+    display: inline-block;
+}
+
+.contenedor img {
+    
+    width: 600px; /* Ancho de la imagen */
+    height: 500px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+   
+}
+
+.texto {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-20%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+/*botones pagigna copilot2*/
+.boton2 {
+    position: relative;
+    display: inline-block;
+}
+.boton2 button {
+    background-color: blue; /* Color de fondo (verde) */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 50px 50px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Para mantener el botón en línea */
+    font-size: 40px; /* Tamaño de fuente */
+    border-radius: 15px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    transition: background-color 0.3s; /* Animación para cambio de color */
+
+}
+
+.boton3 {
+    position: relative;
+    display: inline-block;
+}
+.boton3 button {
+    background-color: blue; /* Color de fondo (verde) */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 50px 50px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Para mantener el botón en línea */
+    font-size: 40px; /* Tamaño de fuente */
+    border-radius: 15px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    transition: background-color 0.3s; /* Animación para cambio de color */
+
+}
+
+/*botones pagina copilot3*/
+
+.boton4 {
+    position: relative;
+    display: inline-block;
+}
+.boton4 button {
+    background-color: blueviolet; /* Color de fondo (verde) */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 50px 50px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Para mantener el botón en línea */
+    font-size: 40px; /* Tamaño de fuente */
+    border-radius: 15px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    transition: background-color 0.3s; /* Animación para cambio de color */
+
+}
+
+.boton5 {
+    position: relative;
+    display: inline-block;
+}
+.boton5 button {
+    background-color: blueviolet; /* Color de fondo (verde) */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 50px 50px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Para mantener el botón en línea */
+    font-size: 40px; /* Tamaño de fuente */
+    border-radius: 15px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    transition: background-color 0.3s; /* Animación para cambio de color */
+
+}
+
+/*copolot3*/
+
+.pagina3 {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.pagina3 img {
+    
+    width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+   
+}
+.pagina3_texto2 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen3 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen3 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen3_texto3 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen4 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen4 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen4_texto4 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen5 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen5 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen5_texto5 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen6 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen6 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen6_texto6 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen7 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen7 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen7_texto7 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+.imagen8 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen8 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen8_texto8 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen9 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen9 img{
+        
+   width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen9_texto9 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen10 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen10 img{
+        
+   width: 400px; /* Ancho de la imagen */
+    height: 400px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen10_texto10 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen11 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen11 img{
+        
+   width: 400px; /* Ancho de la imagen */
+    height: 400px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen11_texto11 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
+
+.imagen12 {
+    position: relative;
+    display: inline-block;
+}
+
+.imagen12 img{
+        
+   width: 400px; /* Ancho de la imagen */
+    height: 400px; /* Altura de la imagen */
+    border-radius: 30%;
+    display: block;
+
+}
+.imagen12_texto12 {
+    position: absolute;
+    top: 50%; /* Centrado vertical */
+    left: 50%; /* Centrado horizontal */
+    transform: translate(-50%, -50%); /* Ajusta el texto al centro exacto */
+    color: white; /* Cambia el color del texto */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para mejor visibilidad */
+}
